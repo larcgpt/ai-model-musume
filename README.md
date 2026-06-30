@@ -1,6 +1,6 @@
 # AI Model Musume
 
-AI 模型娘化角色圖像資料集。收錄 21 個主流 AI 模型（LLM / 圖像生成）的角色設定卡片、編號卡與桌布圖像，按模型分類整理。
+AI 模型娘化角色圖像資料集。收錄 22 個主流 AI 模型（LLM / 圖像生成）的角色設定卡片、編號卡與桌布圖像，按模型分類整理。
 
 ![代表圖](Unknown/Unknown_Wallpaper_6.png)
 
@@ -29,6 +29,7 @@ AI 模型娘化角色圖像資料集。收錄 21 個主流 AI 模型（LLM / 圖
 | Grok | xAI Grok | ![Grok](Grok/Grok_Main_1.png) |
 | Kimi | Moonshot Kimi | ![Kimi](Kimi/Kimi_Main_1.png) |
 | Llama | Meta Llama | ![Llama](Llama/Llama_Main_1.png) |
+| Mai | Microsoft Copilot Mai | ![Mai](Mai/Mai_Main_1.png) |
 | Mimo | Mimo | ![Mimo](Mimo/Mimo_Main_1.png) |
 | Minimax | MiniMax | ![Minimax](Minimax/Minimax_Main_1.png) |
 | Mistral | Mistral AI | ![Mistral](Mistral/Mistral_Main_1.png) |
@@ -87,6 +88,7 @@ AI_MUMUSE/
 ├── Grok/                   # xAI Grok
 ├── Kimi/                   # Moonshot Kimi
 ├── Llama/                  # Meta Llama
+├── Mai/                    # Microsoft Copilot Mai
 ├── Mimo/                   # Mimo
 ├── Minimax/                # MiniMax
 ├── Mistral/                # Mistral AI
